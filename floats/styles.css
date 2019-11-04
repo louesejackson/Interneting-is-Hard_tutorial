@@ -61,3 +61,21 @@
 p{
   margin-bottom: 20px;
 }
+
+.avatar {
+  float: left;
+  width: 60px;
+  height: 60px;
+  margin: 25px;
+  border-raidus: 40px;
+  background-color: #D6E9FE;
+}
+
+.username {
+  margin-top: 10px;
+}
+
+.comment {
+  margin: 10px;
+  overflow: hidden; /*this is important*/
+}

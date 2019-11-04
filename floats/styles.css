@@ -21,6 +21,7 @@
   width: 650px;
   height: 500px;
   background-color: #F5CF8E; /*yellow*/
+  padding: 20px;
 }
 
 .footer {
@@ -47,4 +48,16 @@
   margin: 20px 1.15%;
   height: 160px;
   background-color: #B2D6FF; /*Medium blue*/
+}
+
+.article-image {
+  float: left;
+  width: 300px;
+  height: 200px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+p{
+  margin-bottom: 20px;
 }

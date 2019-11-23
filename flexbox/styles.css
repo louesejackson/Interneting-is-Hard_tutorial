@@ -42,6 +42,10 @@
   align-items: center;
 }
 
+.signup {
+  margin-left: auto;
+}
+
 .photo-grid-container {
   display: flex;
   justify-content: center;

@@ -20,30 +20,37 @@
 .menu {
   background-color: #5995DA;
   height: 80px;
+  border: 1px solid blue;
 }
 
 .header {
   background-color: #B2D6FF;
+  border: 1px solid green;
 }
 
 .content {
   background-color: #EAEDF0;
+  border: 1px solid yellow;
 }
 
-.signup {
+.sign-up {
   background-color: #D6E9FE;
+  border: 1px solid purple;
 }
 
 .feature-1 {
   background-color: #F5CF8E;
+  border: 1px solid black;
 }
 
 .feature-2 {
   background-color: #F09A9D;
+  border: 1px solid black;
 }
 
 .feature-3 {
   background-color: #C8C6FA;
+  border: 1px solid black;
 }
 
 

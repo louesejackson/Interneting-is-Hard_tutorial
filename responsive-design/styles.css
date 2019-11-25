@@ -75,7 +75,16 @@
 
 /*Desktop Styles */
 @media only screen and (min-width: 961px) {
-  body {
-    background-color: #B2D6FF; /*Blue*/
+  .page {
+    width: 960px;
+    margin: 0 auto;
   }
+    .feature-1,
+    .feature-2,
+    .feature-3 {
+      width: 33.3%;
+    }
+    .header {
+      height: 400px;
+    }
 }

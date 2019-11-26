@@ -23,8 +23,16 @@
 }
 
 .header {
-  background-color: #B2D6FF;
+  height: auto;
+  justify-content: inherit;
+  align-items: inherit;
 }
+
+.photo img {
+  width: 100%
+  display: block;
+}
+
 
 .content {
   background-color: #EAEDF0;
@@ -51,16 +59,6 @@
   display: block;
 }
 
-.header {
-  height: auto;
-  justify-content: inherit;
-  align-items: inherit;
-}
-
-.photo img {
-  width: 100%
-  display: block;
-}
 
 
 
@@ -91,7 +89,7 @@
     .feature-1,
     .feature-2,
     .feature-3 {
-      width: 33.3%;
+      width: 33.3333%;
     }
     .header {
       height: 400px;
@@ -103,4 +101,5 @@
     .content {
       order: 2;
     }
+
 }
